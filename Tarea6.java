@@ -13,6 +13,7 @@ public class Tarea6
 	//ejercicio1(1)=1
 	static int ejercicio1(int n)
 	{
+		// soy kevin en este ejercicio aplicamos la condicion para los valores en n y luego en el return la formula de mi recursiva para obtener los valores
 	//Este ejercicio en si se me dificulto un poco ya que en clase no ponia mucha atencion solo tomaba fotos
          //pero gracias ala ayuda del libro pude entender muchas cosas y esto me sirvio de ayuda para el examen..   
             if (n==0)
@@ -29,7 +30,7 @@ public class Tarea6
 	//ejercicio2(0)=2
 	//ejercicio2(1)=3
 	static int ejercicio2(int n)
-	{
+	{ // soy kevin en este ejercicio colocamos la condicion para el valor de las n y en el return colocamos la formula que tiene mi recursiva para obtener los valores
             // ensi este ejercico es el mismo que el anterior...con diferente formula,
             if (n==0)  
 		return 2; 
@@ -48,6 +49,7 @@ public class Tarea6
 	//ejercicio3(2)=2
 	static int ejercicio3(int n)
 	{ 
+	// soy kevin en este ejercicio ponemos la condicion con n para poner el valor de las recursivas y en el return colocamos la formula como va la recursiva para obtener los valores
             // es igual al anteriror cn diferente formulas alas otras..
             if (n==0)
 		return 0;
@@ -64,3 +66,4 @@ public class Tarea6
 	}
 
 }
+// en esta tarea trabaje con digna muchas gracias ingeniero
